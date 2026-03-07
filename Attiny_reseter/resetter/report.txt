@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-F_Cu.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-B_Cu.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-F_Paste.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-B_Paste.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-F_Mask.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-B_Mask.gbr'.
+Plotted to 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Brian\Documents\KiCad\Dunte work\Attiny_reseter\resetter-job.gbrjob'.
+Info: Done.

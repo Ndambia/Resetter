@@ -1,0 +1,7 @@
+### Footprint positions - created on 2026-03-07T20:01:12+0300 ###
+### Printed by KiCad version 9.0.0-rc2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+J2        Conn_01x05_Pin  TerminalBlock_MaiXu_MX126-5.0-05P_1x05_P5.00mm   131.3000   -72.6000  180.0000  bottom
+## End

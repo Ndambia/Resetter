@@ -1,0 +1,12 @@
+### Footprint positions - created on 2026-03-07T20:01:12+0300 ###
+### Printed by KiCad version 9.0.0-rc2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                              PosX       PosY       Rot  Side
+C1        0.1             R_0402_1005Metric                                129.4000   -68.2500    0.0000  top
+J1        Conn_01x04_Pin  TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm   120.1500   -59.4000    0.0000  top
+R1        10K             R_0402_1005Metric                                116.8000   -69.0000  -90.0000  top
+R2        4.7K            R_0402_1005Metric                                130.0500   -72.1000  -90.0000  top
+R3        4.7K            R_0402_1005Metric                                130.4600   -69.7000  180.0000  top
+U1        ATtiny25-20SS   SOIC-8_3.9x4.9mm_P1.27mm                         123.2000   -68.9500    0.0000  top
+## End
